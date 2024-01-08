@@ -1,5 +1,5 @@
 # OIBSIP-TASK-2
-<p>This repository contains my Second project in Oasis Infobyte Internship program in domain Web Development and Designing.</p>
+<p>This repository contains my Second Project in Oasis Infobyte Internship program in domain Web Development and Designing.</p>
 <h1>TASK DETAILS</h1>
 <p><strong>Task - </strong>Portfolio Website</p>
 <p><strong>Technologies used - </strong>HTML, CSS</p>
